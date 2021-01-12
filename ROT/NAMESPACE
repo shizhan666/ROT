@@ -1,3 +1,0 @@
-useDynLib(ROT)
-importFrom(Rcpp, evalCpp)
-exportPattern("^[[:alpha:]]+")
